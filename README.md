@@ -400,5 +400,6 @@ Limitations
 Implementations
 ---------------
 - [Hummingbird-JS](https://github.com/echlo/hummingbird-js)
+- [Hummingbird-Swift](https://github.com/echlo/hummingbird-swift)
 
 
